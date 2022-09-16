@@ -66,19 +66,19 @@ h1 {
 
 @media only screen and (max-width: 700px){
     .ball {
-        height: 250px;
-        width: 250px;
+        height: 300px;
+        width: 300px;
         
     }
 
     .answer{
-        height: 125px;
-        width: 125px
+        height: 150px;
+        width: 150px
         
     }
 
     #genie {
-        font-size: 15px;
+        font-size: 18px;
     }
 
 
